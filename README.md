@@ -1,0 +1,2 @@
+# Pollution-Check-App
+Our objective is  to provide best user experience to user so that user can check pollution of different cities with their USAQI.   Build a system to search for specific city, state, country to find it’s pollution details showing the list of air temperature, pollutant name, humidity, wind and the condition of that particular area.  Allows the user to bookmark favorite or users city for later reference. 
